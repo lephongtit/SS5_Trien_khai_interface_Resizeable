@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d22d26a9-179d-4699-b75b-acd328947e0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point_va_MoveablePoint/SS4_Lop_Point_va_MoveablePoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Thiet_ke_va_trien_khai_lop_Triangle/SS4_Thiet_ke_va_trien_khai_lop_Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai4.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Resizeable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Resizeable.java" />
+        <option value="$PROJECT_DIR$/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="912" />
+    <option name="width" value="938" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SS5_Trien_khai_interface_Resizeable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SS5_Trien_khai_interface_Resizeable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SS5_Trien_khai_interface_Resizeable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SS5_Trien_khai_interface_Resizeable" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SS5_Trien_khai_interface_Resizeable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22d26a9-179d-4699-b75b-acd328947e0d" name="Default Changelist" comment="" />
+      <created>1564974100118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564974100118</updated>
+      <workItem from="1564974103428" duration="1373000" />
+      <workItem from="1565010813524" duration="659000" />
+      <workItem from="1565015187982" duration="2682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4714000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="730" y="0" width="750" height="870" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2637681" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resizeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
